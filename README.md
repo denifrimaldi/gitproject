@@ -1,6 +1,7 @@
 "Django Project" 
 
 ABOUT
+
 Ini adalah proyek web berbasis Django bernama myproject. Proyek ini dibuat menggunakan Python dan framework Django untuk membangun aplikasi web yang mudah dikembangkan.
 
 
